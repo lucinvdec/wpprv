@@ -31,8 +31,8 @@
 
 .wpprvpic{
   width: 200px;
-  height: 200px;
-  aspect-ratio: 1/1;
+  border: 1px #000 solid;
+  padding: 10px;
 }
 
 .wpprvtext{
